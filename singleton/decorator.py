@@ -21,7 +21,6 @@ class B(object):
 
 
 if __name__ == '__main__':
-
-    a=A()
-    aa=A()
+    a = A()
+    aa = A()
     assert a is aa, u"Singleton did not worked"
