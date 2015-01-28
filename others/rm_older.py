@@ -1,4 +1,4 @@
-# encoding utf-8
+# encoding: utf-8
 """
 This small script will remove all directories under 'build' recursively
 """
